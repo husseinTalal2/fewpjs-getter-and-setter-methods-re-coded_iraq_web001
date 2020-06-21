@@ -13,5 +13,7 @@ class Circle{
   get area(){
     return pi * this.radius ** 2
   }
-  set diameter(diameter)
+  set diameter(diameter){
+
+  }
 }
